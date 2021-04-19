@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello Belarus!");
         System.out.println("Hello");
         System.out.println("feature2");
+        System.out.println("feature1");
     }
 }
